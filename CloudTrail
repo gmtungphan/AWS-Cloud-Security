@@ -1,0 +1,7 @@
+Cloud Traild Provides Event History of your AWS Account Activity.
+AWS Manage Console , AWS SDK, Command Lines Tools and orthers.
+
+Cloud Trail > S3 Activity > Detect by Lambda and sent to SMS Alert
+
+
+Cloud Trail can encrypt the log and send SNS Notification everylog file delivery.
